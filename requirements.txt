@@ -1,4 +1,4 @@
 streamlit>=1.37
 pandas>=2.0
-plotly>=5.22
-streamlit-lottie>=0.0.5   # for Lottie animations (confetti, icons, etc.)
+numpy>=1.26
+plotly>=5.20
